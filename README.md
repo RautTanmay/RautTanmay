@@ -1,3 +1,5 @@
+[![MasterHead](https://github.com/RautTanmay/RautTanmay/blob/main/GitHub%20Banner.png)](https://instagram.com/_mr.tanmay_14)
+
 <h1 align="center">Hi 👋, I'm Tanmay Raut</h1>
 <h3 align="center">Student at Priyadarshi Collage of Engineering Technology</h3>
 <img align="right" alt="Coading" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
